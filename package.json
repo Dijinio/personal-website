@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "acorn": "^7.1.1",
     "handlebars": "^4.3.0",
+    "kind-of": "^6.0.3",
+    "minimist": "^1.2.5",
     "node-sass": "^4.13.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
