@@ -1,7 +1,6 @@
 import React from 'react';
 import '../style/contact.scss';
 import Logo from '../images/logo.png';
-import Bournemouth from '../images/bournemouth.jpg';
 
 function Contact() {
   return (
