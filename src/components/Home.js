@@ -22,7 +22,7 @@ function Home() {
     <div className="top-space"></div>
       <div className="main-info">
         <h1>Hello, my name is David</h1>
-        <h2>I'm a full-stack web developer</h2>
+        <h1>I'm a full-stack web developer</h1>
         <div className="logos">
           <ul>
             <li>

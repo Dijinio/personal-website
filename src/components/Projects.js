@@ -37,7 +37,6 @@ function Projects() {
           description="Scheduler web application is an improved 'Todo app' made for skill demonstration purposes"
           tech={["Ruby on Rails", "ReactJS", "Postgresql"]}
           />
-          <hr className="projects-hr"/>
       </div>
     </div>
   );

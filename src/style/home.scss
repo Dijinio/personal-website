@@ -27,7 +27,7 @@
   color: #202020;
   font-family: Bad Script;
   text-shadow: 1px 1px 4px rgba(0,0,0,0.7);
-  h1, h2 {
+  h1 {
     font-weight: 500;
     font-size: 3.2rem;
   }
@@ -50,9 +50,6 @@
   padding: 10px;
   filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.7));
   -webkit-filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.7));
-  @media only screen and (max-width: 575px) {
-    height: 35px;
-  }
 }
 
 .home-links {
@@ -102,13 +99,25 @@
     height: 120px;
   }
   .main-info {
+    height: 450px;
     padding: 20px;
     margin: 0 10px;
-    h1, h2 {
-      font-size: 3rem;
+    h1 {
+      font-size: 2.5rem;
+    }
+  }
+  .home-links a {
+    height: 50px;
+    line-height: 50px;
+    i {
+      left: 10px;
     }
   }
   .logos {
     margin-top: 50px;
+  }
+  .skill-logo {
+    height: 40px;
+    padding: 5px;
   }
 }
