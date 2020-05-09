@@ -43,7 +43,7 @@ function About() {
               <Skill name={'UX Design'} rating={4}/>
               <Skill name={'Graphics Design'} rating={2}/>
               <h2>Codewars</h2>
-              <a href="https://www.codewars.com/users/Dijinio" target="blank">
+              <a href="https://www.codewars.com/users/Dijinio" target="_blank">
                 <img src="https://www.codewars.com/users/Dijinio/badges/large" alt=""/>
               </a>
             </div>

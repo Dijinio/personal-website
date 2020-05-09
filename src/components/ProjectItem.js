@@ -21,8 +21,8 @@ function ProjectItem({name, image, link, git, description, tech}) {
         <p className="text-left">{description}</p>
       </div>
       <ul className="tech">{techUsed()}</ul>
-      <a href={link} target="blank"><i className="fa fa-github"></i>Website</a>
-      <a href={git} target="blank"><i className="fa fa-globe"></i>Code</a>
+      <a href={link} target="_blank"><i className="fa fa-github"></i>Website</a>
+      <a href={git} target="_blank"><i className="fa fa-globe"></i>Code</a>
     </div>
   )
 }

@@ -14,9 +14,9 @@ function Contact() {
         </div>
         <div className="contact-right">
           <div className="contact-links">
-            <a href="https://www.linkedin.com/in/david-jokhadze-aa4403128/" target="blank"><i className="fa fa-linkedin"></i></a>
-            <a href="skype:live:djokhadze?chat" target="blank"><i className="fa fa-skype"></i></a>
-            <a href="https://github.com/Dijinio" target="blank"><i className="fa fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/david-jokhadze-aa4403128/" target="_blank"><i className="fa fa-linkedin"></i></a>
+            <a href="skype:live:djokhadze?chat" target="_blank"><i className="fa fa-skype"></i></a>
+            <a href="https://github.com/Dijinio" target="_blank"><i className="fa fa-github"></i></a>
           </div>
           <p><i className="fa fa-envelope"></i>djokhadze@gmail.com</p>
         </div>
