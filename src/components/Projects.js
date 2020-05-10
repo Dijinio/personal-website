@@ -16,7 +16,8 @@ function Projects() {
           image={Minesweeper}
           link="https://dijinio-mern-minesweeper.herokuapp.com/"
           git="https://github.com/Dijinio/node-react-minesweeper"
-          description="Windows OS classic game Minesweeper"
+          description="Windows OS classic game Minesweeper with opportunity to save records.
+          To avoid cheating, most of the logic is in the Back-End"
           tech={["Node/Express", "ReactJS", "MongoDB"]}
           />
         <hr className="projects-hr" />
@@ -34,7 +35,8 @@ function Projects() {
           image={Scheduler}
           link="https://dijinio-rails-react-scheduler.herokuapp.com/"
           git="https://github.com/Dijinio/rails-react-scheduler"
-          description="Scheduler web application is an improved 'Todo app' made for skill demonstration purposes"
+          description="Scheduler web application is an improved 'Todo app'
+          with User Registration and Login. Made for skill demonstration purposes"
           tech={["Ruby on Rails", "ReactJS", "Postgresql"]}
           />
       </div>
